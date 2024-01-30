@@ -23,6 +23,7 @@
 <h4>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="32"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="32"/>
@@ -32,20 +33,21 @@
 </h4>
 
 
-<p align='center'>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=nastiacandor&show_icons=true&count_private=true&theme=dark" width="350">
 </p>
 
-<p align='center'>
+<p>
   <img src="https://www.codewars.com/users/NastiaCandor/badges/large">
 </p>
 
-<!--
 
- 
-**NastiaCandor/NastiaCandor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
+ align='center'
 
 ![](https://komarev.com/ghpvc/?username=NastiaCandor)
+ 
+**NastiaCandor/NastiaCandor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
